@@ -1,0 +1,21 @@
+{
+  "name": "project-basic-informational-site",
+  "version": "1.0.0",
+  "description": "This is a simple HTTP server built using Node.js that serves HTML files based on user requests. The server handles routing and displays the appropriate HTML files. If a file is not found, a custom 404 error page is shown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhexNiebres/Project-Basic-Informational-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RhexNiebres/Project-Basic-Informational-Site/issues"
+  },
+  "homepage": "https://github.com/RhexNiebres/Project-Basic-Informational-Site#readme"
+}
